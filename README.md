@@ -34,9 +34,15 @@ You will be prompted to upload an image (must be 28x28 pixels, grayscale). The s
 
 ## 🧪 Example
 
-Upload a digit image (e.g., `test.png`) and the model will predict and display the result.
+### 🔤 Input Image
+The user provides a 28x28 grayscale image of a handwritten digit:
 
-![Example](example_output.png) <!-- Optional: add example image here -->
+<img src="example_input.png" alt="Input Digit" width="150"/>
+
+### ✅ Predicted Output
+The model predicts the digit with high accuracy:
+
+<img src="example_output.png" alt="Predicted Digit" width="300"/>
 
 ## 🧰 Requirements
 
