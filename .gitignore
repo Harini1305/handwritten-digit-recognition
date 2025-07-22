@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.pb
+*.tflite
+
+# Image files and outputs
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+ENV/
+env/
+*.egg-info/
+
+# Colab files
+*.ipynb
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
